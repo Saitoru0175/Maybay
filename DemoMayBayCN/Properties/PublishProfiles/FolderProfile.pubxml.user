@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\DoAnCN\publish</_PublishTargetUrl>
+    <History>True|2023-12-19T08:23:55.7597936Z;True|2023-12-19T14:53:22.7904155+07:00;True|2023-12-19T14:40:49.9430322+07:00;True|2023-12-19T14:27:50.9750770+07:00;True|2023-12-19T14:20:56.1319717+07:00;False|2023-12-19T14:17:33.8580595+07:00;True|2023-12-19T13:49:07.0907818+07:00;True|2023-12-19T13:34:16.7239854+07:00;True|2023-12-19T13:23:38.8115000+07:00;True|2023-12-19T13:04:35.8040132+07:00;True|2023-12-19T12:03:10.8122742+07:00;True|2023-12-19T09:44:13.9973007+07:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
